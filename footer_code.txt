@@ -1,0 +1,173 @@
+<!-- footer_part_start -->
+<footer>
+    <div class="footer_part">
+        <div class="footer_list">
+        <div class="addres_part">
+            <h2>Contact Us</h2>
+            <h3>National Headquarters</h3> 
+            <p> 684-686, Red Crescent Sarak
+                Bara Maghbazar, Dhaka 1217
+                Postal Address G.P.O. Box 579, Dhaka
+                Tel:(880) (2) 48310188 / 48310189
+                Email: info@bdrcs.org <br><br>
+                <strong>Terms and Conditions | Privacy Policy | Refund Policy</strong></p>
+            
+        </div>
+        <div class="resourch">
+            <h2>Resources</h2>
+            <ul>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Report</a></li>
+                <li><a href="#">Stories</a></li>
+                <li><a href="#"> Gallary</a></li>
+                <li><a href="#">Folice and Framwork</a></li>
+            </ul>
+        </div>
+        <div class="involed">
+            <h2>Get Involved</h2>
+            <ul>
+                <li><a href="#">Donate or Get Blood</a></li>
+                <li><a href="#">Become a Member</a></li>
+                <li><a href="#">Become a Volunteer</a></li>
+                <li><a href="#">Lets Partners</a></li>
+                <li><a href="#">Request a Training</a></li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<div class="social_media">
+    <ul>
+        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true" title="Facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true" title="X"></i></a></li>
+        <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true" title="YouTube"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true" title="Linkedin"></i></a></li>
+    </ul>
+    <h5>© 2024 Bangladesh Red Crescent Society </h5>
+</div>
+</footer>
+<!-- /* footer_part_End */ -->
+
+
+
+/* footer_part_start */
+footer{
+    background-color: #D50514;
+}
+.footer_part{
+    width: 1200px;
+    margin: 0 auto;
+}
+.footer_list{
+    display: flex;
+    flex-basis: wrap;
+}
+.addres_part{
+    flex-basis: 30%;
+    margin: 22px 0;
+}
+.addres_part h2{     
+    font-family: sans-serif;     
+    text-transform: uppercase;     
+    padding: 11px 0;     
+    font-size: 20px;    
+    color: #ffff;
+}
+.addres_part h3{      
+    color: #ffff;     
+    padding-bottom: 4px;
+}
+.addres_part p{   
+    color: #ffff;      
+    line-height: 23px;       
+    font-size: 14px;   
+    text-align: justify;
+}
+.addres_part p strong{
+    
+}
+.resourch{
+    margin: 22px 0;
+    flex-basis: 30%;
+    margin-left: 85px;
+}
+.resourch h2{
+    font-family: sans-serif;     
+    text-transform: uppercase;     
+    padding: 11px 0;     
+    font-size: 20px;    
+    color: #ffff;
+}
+.resourch ul {
+   list-style: none;
+}
+.resourch ul li{
+
+    padding: 4px 0;
+}
+.resourch ul li a{
+    text-decoration: none;
+    color: #ffff;
+}
+.involed{
+    margin: 22px 0;
+    flex-basis: 30%;
+    margin-left: 47px;
+}
+.involed h2{
+    font-family: sans-serif;     
+    text-transform: uppercase;     
+    padding: 11px 0;     
+    font-size: 20px;    
+    color: #ffff;
+}
+.involed ul {
+    list-style: none;
+}
+.involed ul li{
+    padding: 4px 0;
+}
+.involed ul li a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+
+.social_media{
+
+    text-align: center;
+}
+.social_media ul{
+
+    list-style: none;
+}
+.social_media ul li{
+
+    display: inline;
+}
+.social_media ul li a{
+    font-size: 21px;
+    padding: 11px;
+    color: #ffff;
+    background: #876f50;
+    border-radius: 50%;
+}
+.social_media h5{          
+     padding: 25px 0;           
+    font-size: 13px;      
+     color: #ffffffbd;      
+    letter-spacing: 1px;
+}
+.social_media ul li a:hover{
+    background-color: #EA828A;
+}
+/* footer_part_End */
+
+
+
+
+
+
+
+
+
